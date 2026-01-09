@@ -1,0 +1,1 @@
+# Maltego setup (placeholder)
