@@ -1,0 +1,1 @@
+# Maltego operational notes (placeholder)
