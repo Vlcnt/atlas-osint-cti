@@ -32,6 +32,5 @@ Reference image (relative path from this file):
 
 
 ## Notes
-The graph is intentionally **small** and curated.  
-A SOC-grade graph is not “big”; it is **explainable** in under 60 seconds.
+The graph is intentionally **small** and curated, and designed for fast explanation.
 
