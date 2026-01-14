@@ -32,7 +32,19 @@ Reusable conventions and guardrails applied across Atlas cases:
 - [Limitations](./cases/case-b_palo-alto-pan-os/limitations.md)
 - [Sources](./cases/case-b_palo-alto-pan-os/sources.md)
 
-Additional cases will be added following the same methodology and standards.
+### Case C — Microsoft WSUS (Patch Infrastructure)
+- [Overview](./cases/case-c_microsoft-wsus/overview.md)
+- [Graph model](./cases/case-c_microsoft-wsus/graph.md)
+- [Graph screenshot](./images/case-c/graph_overview.png)
+- [Analysis](./cases/case-c_microsoft-wsus/analysis.md)
+- [Findings](./cases/case-c_microsoft-wsus/findings.md)
+- [Limitations](./cases/case-c_microsoft-wsus/limitations.md)
+- [Sources](./cases/case-c_microsoft-wsus/sources.md)
+
+Additional cases and analytical artifacts will be added following the same methodology and standards.
+
+## Analytical brief 
+- [AA25-239A — Analytical Brief](./cases/intelligence-briefs/aa25-239a_cti-brief/README.md)
 
 ## Repo structure
 - [cases/](./cases/) — one folder per case (overview, sources, analysis, graph, findings, limitations)
@@ -46,4 +58,3 @@ Additional cases will be added following the same methodology and standards.
 4. findings.md  
 5. limitations.md  
 6. sources.md (with “date accessed”)
-
