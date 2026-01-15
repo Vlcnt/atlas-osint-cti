@@ -30,7 +30,7 @@ It demonstrates analytical structure and careful source handling—not a claim o
 
 ## How to read (recommended order)
 1. [overview.md](./overview.md)
-2. [graph.md](./graph.md) + [graph_overview.png](../../../images/intelligence-briefs/aa25-239a_cti-brief/graph_overview.png)
+2. [graph.md](./graph.md) (screenshot: [graph_overview.png](../../../images/intelligence-briefs/aa25-239a_cti-brief/graph_overview.png))
 3. [analysis.md](./analysis.md)
 4. [findings.md](./findings.md)
 5. [limitations.md](./limitations.md)
@@ -38,7 +38,7 @@ It demonstrates analytical structure and careful source handling—not a claim o
 
 ## File map (quick)
 - [overview.md](./overview.md) — executive overview + key points + evidence strength
-- [graph.md](./graph.md) — Maltego model + screenshot link
+- [graph.md](./graph.md) — visual correlation model + screenshot reference
 - [analysis.md](./analysis.md) — method: advisory → TTP themes → defensive implications
 - [findings.md](./findings.md) — operational takeaways for SOC/CTI
 - [limitations.md](./limitations.md) — scope boundaries + what would strengthen confidence
